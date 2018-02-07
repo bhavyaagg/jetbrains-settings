@@ -1,7 +1,7 @@
 <scheme name="Sublime 3" version="142" parent_scheme="Default">
   <metaInfo>
     <property name="description">Webstorm 2017.3</property>
-    <property name="modified">2018-01-02T20:20:33</property>
+    <property name="modified">2018-02-07T22:18:06</property>
     <property name="vendorMail">bhavyaaggarwal1209@gmail.com</property>
     <property name="vendorName">Bhavya Aggarwal</property>
     <property name="vendorUrl">http://</property>
@@ -559,6 +559,12 @@
         <option name="FOREGROUND" value="e38d00" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="9cdc28" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e38d00" />
@@ -567,7 +573,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="e38d00" />
+        <option name="FOREGROUND" value="9cdc28" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -592,9 +598,19 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="9cdc28" />
+      </value>
+    </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="e6db72" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="e6d227" />
       </value>
     </option>
     <option name="JSON.PROPERTY_KEY">
