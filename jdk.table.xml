@@ -1,0 +1,313 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (Application 2 Creating Webmaps with Python and Folium)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application 2 Creating Webmaps with Python and Folium/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1103330848" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application 2 Creating Webmaps with Python and Folium" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (11 Application 3 Building a Website Blocker)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/11 Application 3 Building a Website Blocker/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1506745176" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/11 Application 3 Building a Website Blocker" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Application 3 Building a Website Blocker)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application 3 Building a Website Blocker/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/992070608" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application 3 Building a Website Blocker" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Application-2-Creating-Webmaps-with-Python-and-Folium)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application-2-Creating-Webmaps-with-Python-and-Folium/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application-2-Creating-Webmaps-with-Python-and-Folium/venv/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application-2-Creating-Webmaps-with-Python-and-Folium/venv/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application-2-Creating-Webmaps-with-Python-and-Folium/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-360121587" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application-2-Creating-Webmaps-with-Python-and-Folium" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="/usr/local/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1199943127" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Building-Graphical-User-Interfaces-with-Tkinter)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Building-Graphical-User-Interfaces-with-Tkinter/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Building-Graphical-User-Interfaces-with-Tkinter/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Building-Graphical-User-Interfaces-with-Tkinter/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Building-Graphical-User-Interfaces-with-Tkinter/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/158900243" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Building-Graphical-User-Interfaces-with-Tkinter" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Python-for-Interacting-with-DB)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Python-for-Interacting-with-DB/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Python-for-Interacting-with-DB/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Python-for-Interacting-with-DB/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Python-for-Interacting-with-DB/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-543765064" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Python-for-Interacting-with-DB" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Application-5-Building-a-Desktop-Database-Application)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application-5-Building-a-Desktop-Database-Application/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application-5-Building-a-Desktop-Database-Application/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application-5-Building-a-Desktop-Database-Application/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application-5-Building-a-Desktop-Database-Application/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/427482992" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Applciation-5-Building-a-Desktop-Database-Application" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Application-5-Building-a-Desktop-Database-Application)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application-5-Building-a-Desktop-Database-Application/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Application-5-Building-a-Desktop-Database-Application" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Object-Oriented-Programming)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Object-Oriented-Programming/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Object-Oriented-Programming/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Object-Oriented-Programming/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Object-Oriented-Programming/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1223939343" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Work/Python/Courses/The-Python-Mega-Course/Object-Oriented-Programming" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 virtualenv at ~/Work/Python/Projects/Mozilla/network-pulse-api/venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/Work/Python/Projects/Mozilla/network-pulse-api/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Work/Python/Projects/Mozilla/network-pulse-api/venv/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Projects/Mozilla/network-pulse-api/venv/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Work/Python/Projects/Mozilla/network-pulse-api/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1511866427" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Work/Python/Projects/Mozilla/network-pulse-api" />
+    </jdk>
+  </component>
+</application>
